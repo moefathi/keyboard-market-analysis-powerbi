@@ -107,3 +107,7 @@ In the future, the solution could be improved by collecting data from the Jordan
 - **Project Type:** Academic Project
 - **Course:** Business Process Support
 - **Semester:** Fall 2025–2026
+
+## License
+© 2026 Mohammad Aldeghemat. All rights reserved.
+
